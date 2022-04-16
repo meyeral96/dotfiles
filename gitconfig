@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrew@meyerhome.org
+	name = andrew meyer
